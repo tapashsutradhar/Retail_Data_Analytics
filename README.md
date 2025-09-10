@@ -161,7 +161,7 @@ Play with the filters (date range, region, category) to slice and dice.
 If you want, export the filtered table back out to CSV.
 ```
 
-
+<!-- 
 # `See The Code`
 ---
 
@@ -295,3 +295,4 @@ export default function App() {
 ```
 
 ---
+ -->
